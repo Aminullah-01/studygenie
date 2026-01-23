@@ -1,0 +1,8 @@
+{
+  "name": "StudyGenie",
+  "description": "An AI-powered study companion that transforms notes into summaries, quizzes, flashcards, and personalized study plans using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
